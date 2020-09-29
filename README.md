@@ -1,2 +1,3 @@
 # coursversionning
 Julien
+Thomas Chatel
