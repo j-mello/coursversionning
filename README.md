@@ -1,2 +1,6 @@
 # coursversionning
-Julien
+
+
+## Contributors
+Jacques @JacquesCAI
+Julien @AutoCoderr
